@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizedFont
+
+  Created by Peter Bassem on 12/25/20.
+  
+*/
+
+"label" = "Hello World";
